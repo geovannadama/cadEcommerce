@@ -22,9 +22,23 @@ O projeto se organiza com os seguintes arquivos principais:
 - pedido.php
 - produtos.php
 
-### carrinho.php
-Exibe o conteúdo adicionado ao carrinho de compras.
+## Páginas
+
+- Produtos 
+Exibe os produtos disponiveis na loja
+![img](imagens/produtos.png)
+
+- Pedido 
+Exibe os produtos adicionados ao carrinho 
 ![img](imagens/pedido.png)
+
+- Insere Marca
+Cadastra novas marcas ao banco de dados 
+![img](imagens/marca.png)
+
+- Insere Categoria
+Cadastra novas categorias ao banco de dados
+![img](imagens/cprodutos.png)
 
 # Métodos PhP
 
