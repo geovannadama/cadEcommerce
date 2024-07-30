@@ -24,7 +24,7 @@ O projeto se organiza com os seguintes arquivos principais:
 
 ### carrinho.php
 Exibe o conteúdo adicionado ao carrinho de compras.
-![Carrinho](pedido.png)
+![img](pedido.png)
 
 # Métodos PhP
 
