@@ -34,11 +34,9 @@ O projeto se organiza com os seguintes arquivos principais:
 ![img](imagens/marca.png)
 
 ### Cadastra novas categorias ao banco de dados 
-Cadastra novas categorias ao banco de dados
 ![img](imagens/categoria.png)
 
 ### Cadastrar Produtos 
-Cadastra novos produtos e suas informações no banco de dados
 ![img](imagens/cprodutos.png)
 
 ## Métodos PhP
