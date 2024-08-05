@@ -24,20 +24,24 @@ O projeto se organiza com os seguintes arquivos principais:
 
 ## Páginas
 
-- Produtos 
+### Produtos 
 Exibe os produtos disponiveis na loja
 ![img](imagens/produtos.png)
 
-- Pedido 
+### Pedido 
 Exibe os produtos adicionados ao carrinho 
 ![img](imagens/pedido.png)
 
-- Insere Marca
+### Insere Marca
 Cadastra novas marcas ao banco de dados 
 ![img](imagens/marca.png)
 
-- Insere Categoria
+### Insere Categoria
 Cadastra novas categorias ao banco de dados
+![img](imagens/categoria.png)
+
+### Cadastrar Produtos 
+Cadastra novos produtos e suas informações no banco de dados
 ![img](imagens/cprodutos.png)
 
 # Métodos PhP
