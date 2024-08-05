@@ -24,19 +24,16 @@ O projeto se organiza com os seguintes arquivos principais:
 
 ## Páginas
 
-### Produtos 
-Exibe os produtos disponiveis na loja
+### Exibe os produtos disponiveis na loja
 ![img](imagens/produtos.png)
 
-### Pedido 
-Exibe os produtos adicionados ao carrinho 
+### Exibe os produtos adicionados ao carrinho   
 ![img](imagens/pedido.png)
 
-### Insere Marca
-Cadastra novas marcas ao banco de dados 
+### Cadastra novas marcas ao banco de dados 
 ![img](imagens/marca.png)
 
-### Insere Categoria
+### Cadastra novas categorias ao banco de dados 
 Cadastra novas categorias ao banco de dados
 ![img](imagens/categoria.png)
 
@@ -44,17 +41,26 @@ Cadastra novas categorias ao banco de dados
 Cadastra novos produtos e suas informações no banco de dados
 ![img](imagens/cprodutos.png)
 
-# Métodos PhP
+## Métodos PhP
 
-- include_once : Utilizado em casos em que o mesmo arquivo pode ser incluído e valiado mais de uma vez durante uma execução de um script em particular.
+ ### include_once 
+ "include_once ('controller/conexao.php')"
+  Utilizado em casos em que o mesmo arquivo pode ser incluído e valiado mais de uma vez durante uma execução de um script em particular.
 
 - require_once : A expressão require_once é idêntica a require exceto que o PHP verificará se o arquivo já foi incluído, e em caso afirmativo, não o incluirá novamente.
 
-- if else : Permite executar alguns comandos se uma condição for verdadeira e outros se ela for falsa.
+### if else
+if(mysqli_affected_rows($mysqli)  != 0){
+echo "
+}else{
+    echo " }
+ Permite executar alguns comandos se uma condição for verdadeira e outros se ela for falsa.
 
-- include : Inclui e avalia o arquivo informado
-
-- while : Usado para executar as declarações aninhadas repetidamente, enquanto a expressão do while forem avaliadas como verdadeiras .
+### include 
+include('controller/conexao.php');
+ Inclui e avalia o arquivo informado
+ while 
+ Usado para executar as declarações aninhadas repetidamente, enquanto a expressão do while forem avaliadas como verdadeiras .
 
 - die : Serve para indicar ao php que finalize a interpretação do script.
 
