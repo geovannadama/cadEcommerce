@@ -90,6 +90,11 @@ include('controller/conexao.php');
    (http://www.nce.ufrj.br/ginape/js/conteudo/decisao/ifelse.htm#:~:text=O%20comando%20if%20%2D%20else&text=Permite%20executar%20alguns%20comandos%20se,outros%20se%20ela%20for%20falsa.&text=De%20acordo%20com%20a%20l%C3%B3gica,os%20comandos%20devem%20estar%20aninhados.
      )  
 
+
+## Autores 
+
+- Geovanna Dama (https://github.com/geovannadama  )
+
        
 
       
