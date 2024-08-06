@@ -94,8 +94,8 @@ include('controller/conexao.php');
 ## Autores 
 
 - Geovanna Dama (https://github.com/geovannadama  )
-
-       
+- Emily Pessoa (https://github.com/emilypessoa  )
+      
 
       
 
