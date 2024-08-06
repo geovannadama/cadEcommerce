@@ -90,8 +90,8 @@ include('controller/conexao.php');
    (http://www.nce.ufrj.br/ginape/js/conteudo/decisao/ifelse.htm#:~:text=O%20comando%20if%20%2D%20else&text=Permite%20executar%20alguns%20comandos%20se,outros%20se%20ela%20for%20falsa.&text=De%20acordo%20com%20a%20l%C3%B3gica,os%20comandos%20devem%20estar%20aninhados.
      )  
 
-     (https://www.php.net/manual/pt_BR/control-structures.while.php#:~:text=O%20prop%C3%B3sito%20da%20declara%C3%A7%C3%A3o%20while,while%20forem%20avaliadas%20como%20true%20.  )  
+       
 
-    (https://cursos.alura.com.br/forum/topico-funcao-die-57835#:~:text=Gostaria%20de%20saber%20se%20a,ser%20considerado%20como%20um%20destrutor%3F&text=A%20fun%C3%A7%C3%A3o%20die%20serve%20para,finalize%20a%20interpreta%C3%A7%C3%A3o%20do%20script.   )   
+      
 
 
